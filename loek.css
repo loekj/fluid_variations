@@ -1,0 +1,33 @@
+
+.loek-white-text {
+  color: #ffffff;
+}
+
+
+.loek-green {
+  background-color: #26a69a;
+}
+
+.loek-white {
+  background-color: #ffffff;
+}
+
+.loek-blue.darken-3 {
+  background-color: #48639c;
+}
+
+.loek-blue.darken-2 {
+  background-color: #383F51;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: 'Avenir', sans-serif !important;
+}
+
+.loek-clr {
+  clear:both;
+  font-size:0;
+}
